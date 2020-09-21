@@ -1,9 +1,7 @@
-import '../styles/globals.less'
+import '../styles/globals.less';
 
 const MyApp = ({ Component, pageProps }) => {
-    return (
-        <Component {...pageProps} />
-    );
-}
+  return <Component {...pageProps} />;
+};
 
 export default MyApp;
