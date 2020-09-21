@@ -1,4 +1,3 @@
-//import '../styles/globals.css'
 import '../styles/globals.less'
 
 const MyApp = ({ Component, pageProps }) => {
